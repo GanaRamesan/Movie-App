@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Midtterm</string>
+    <string name="options">options</string>
+    <string name="SortbyRating">SortbyRating</string>
+    <string name="SortbyPopulrity">SortbyPopulrity</string>
+    <string name="Quit">Quit</string>
+    <string name="Home" />
+    <string name="SortbyFavorite">SortbyFavorite</string>
+</resources>
